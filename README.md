@@ -13,7 +13,7 @@ cd Linear-System
 
 Execute with:
 
-linear-system.py
+lua linear-system.lua
 ```
 # Technologies Used:
 
